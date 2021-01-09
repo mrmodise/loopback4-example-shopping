@@ -1,0 +1,7 @@
+{
+  "name": "Shoppy",
+  "description": "LoopBack 4 Example: Online Shopping APIs",
+  "repository": "https://github.com/strongloop/loopback4-example-shopping",
+  "logo": "https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png",
+  "keywords": ["node", "loopback", "static"]
+}

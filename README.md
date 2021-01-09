@@ -279,6 +279,15 @@ deployed to a cloud environment as a Kubernetes cluster.
 Please check out
 [Deploy Shopping Application as Cloud-native Microservices](kubernetes/README.md).
 
+## Deploy to Heroku
+
+The example application can be deployed to Heroku by clicking the below button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strongloop/loopback4-example-shopping)
+
+Please check out
+[Deploy Shopping Application as Cloud-native Microservices](kubernetes/README.md).
+
 ## Contributing
 
 This project uses [DCO](https://developercertificate.org/). Be sure to sign off
