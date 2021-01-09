@@ -283,10 +283,7 @@ Please check out
 
 The example application can be deployed to Heroku by clicking the below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strongloop/loopback4-example-shopping)
-
-Please check out
-[Deploy Shopping Application as Cloud-native Microservices](kubernetes/README.md).
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrmodise/loopback4-example-shopping/blob/feature/deploy-to-heroku)
 
 ## Contributing
 
